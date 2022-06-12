@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AdnanFurkanAKTEMUR
-- 👀 I’m interested in Web development with .net, mvc, sql, c#, css, javascript 
-- 🌱 I’m currently learning Reactjs and Mvc
+- 👀 I’m interested in Web development with Ruby on Rails and Django
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on web pages
-- 📫 Mail: adnanfurkan77@gmail.com
+- 📫 Mail: adnanfurkanaktemur@gmail.com
 - linkedin:https://www.linkedin.com/in/adnan-furkan-aktemur/
-
-
